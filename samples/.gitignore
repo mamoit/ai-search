@@ -1,0 +1,9 @@
+# Ficheiros gerados pelo graphviz
+*.gv
+*.gv.pdf
+
+# Ficheiros de soluções gerados pelo programa
+*.sol
+
+# Ficheiros de diferença gerados pela makefile
+*.diff
